@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-View my resume *[here](https://vivekg-cmu.github.io/files/Resume_Vivek_Gupta.pdf)
+View my resume **[here](https://vivekg-cmu.github.io/files/Resume_Vivek_Gupta.pdf)**
